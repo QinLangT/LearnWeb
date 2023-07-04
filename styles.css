@@ -1,0 +1,20 @@
+h1
+{
+    color: brown;
+    text-align: center;
+}
+.taskContent
+{
+    color: red;
+}
+body
+{
+    background-image: url("dog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.newTask
+{
+    width: 400px;
+    height: 60px;
+}
